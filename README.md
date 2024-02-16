@@ -1,1 +1,1 @@
-# Something about SQl
+# Something about SQL
